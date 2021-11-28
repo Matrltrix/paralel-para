@@ -1,0 +1,2 @@
+# paralel-para
+Para kazanma
